@@ -14,10 +14,14 @@ incorporates an ESP32 microcontroller, GPS module, LoRa communication module, an
 rechargeable power supply. Communication between collar nodes and the gateway was
 achieved using ESP-MESH networking, while long-range transmission from the gateway
 to the monitoring station was implemented using LoRa technology.
+SYSTEM ARCHITECTURE
 <img width="1408" height="768" alt="system_architecture" src="https://github.com/user-attachments/assets/8aed86bf-1116-453c-b54c-1c307582020a" />
 
+HERDSMAN GATEWAY
 <img width="3400" height="2550" alt="WhatsApp Image 2026-06-07 at 01 04 10" src="https://github.com/user-attachments/assets/d1d42059-11b0-44b0-b0d0-a1538729a8ea" />
 
+COLLAR NODE
 <img width="3024" height="4032" alt="WhatsApp Image 2026-06-08 at 23 43 03" src="https://github.com/user-attachments/assets/96ba647b-fad6-4634-98a5-4ed8a7fd85a2" />
 
+3D DESIGN
 <img width="1536" height="1024" alt="ChatGPT Image May 30, 2026, 08_30_47 AM" src="https://github.com/user-attachments/assets/e1e88779-6885-499e-8759-883a70a9fc9c" />
